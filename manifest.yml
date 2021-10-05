@@ -3,6 +3,6 @@ applications:
 - path: .
   name: openMRS-Webapp
   buildpack: java_buildpack
-  memory: 950MB
+  memory: 1GB
   instances: 1
   random-route: true
